@@ -1,4 +1,5 @@
-# Bubble Shooter Privacy Policy
+#  Privacy Policy
+## Bubble Shooter by Ethical Sight
 
 
 ### Introduction
